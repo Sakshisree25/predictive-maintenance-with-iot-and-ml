@@ -1,0 +1,6 @@
+{
+  "name": "VigilantEdge - Predictive Maintenance Platform",
+  "description": "Industrial predictive maintenance and failure early warning platform with multi-sensor telemetry, RUL estimation, and cost-based threshold optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
